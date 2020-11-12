@@ -1,7 +1,7 @@
 # FixMissingUnityEvents
 Tool util to fix missing unityevents invokations
 
-# Should only be used on scenes. Don't forget to apply all of the changes to the prefabs!
+# Should only be used on scenes. Don't forget to apply all of the changes to prefabs!
 
 ### Automaticly fixes invokations of the script when script was placed under different namesapce or under the assembly (changed assembly)
 
